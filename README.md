@@ -40,3 +40,4 @@ Android pre-release
 
 1. [Calculator mobile (test plan)](https://github.com/kubade220/Project-Plus/blob/main/TestPlan.md)
 2. [Application tests on the emulator and physical device](https://github.com/kubade220/Project-Plus/blob/main/emulator%20and%20physical%20device.md)
+3. [Test the source app (development, pre-release) and the store app (production, available to all customers)](https://github.com/kubade220/Project-Plus/blob/main/Test%20the%20pre-release%20and%20the%20production%2C%20available%20to%20all%20customers.md)
