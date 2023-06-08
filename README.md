@@ -20,18 +20,15 @@ InstaList. ShoppingList for Android.
 * Calculator mobile test plan
 *  tests iOS application on Apple phones and tablets
 #### Test environment
-
 Android emulator
 physical device
 Android development
 Android pre-release
-Test objects
+### Test objects
 * installist app 
 * Calculator mobile
 * iOS app
-* 
 #### Main area of testing
-
 * Test the app on the emulator
 * Test the app on the physical device
 * Test the mobile application in its entirety
@@ -40,3 +37,5 @@ Test objects
 * Find 3 errors in the mobile application
 
 # Table of Content
+
+1. [Calculator mobile (test plan)](https://github.com/kubade220/Project-Plus/blob/main/TestPlan.md)
