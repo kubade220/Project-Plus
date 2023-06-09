@@ -41,7 +41,7 @@ Android pre-release
 
 [Task 2](https://github.com/kubade220/Project-Plus/blob/main/poor%20resource.md)
 
-[Task 3]()
+[Task 3](https://github.com/kubade220/Project-Plus/blob/main/Task3.md)
 
 1 [Calculator mobile (test plan)](https://github.com/kubade220/Project-Plus/blob/main/TestPlan.md)
 
