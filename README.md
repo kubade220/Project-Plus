@@ -37,7 +37,12 @@ Android pre-release
 * Find 3 errors in the mobile application
 
 # Table of Content
-
-1. [Calculator mobile (test plan)](https://github.com/kubade220/Project-Plus/blob/main/TestPlan.md)
-2. [Application tests on the emulator and physical device](https://github.com/kubade220/Project-Plus/blob/main/emulator%20and%20physical%20device.md)
-3. [Test the source app (development, pre-release) and the store app (production, available to all customers)](https://github.com/kubade220/Project-Plus/blob/main/Test%20the%20pre-release%20and%20the%20production%2C%20available%20to%20all%20customers.md)
+1.1 [Short deadline](https://github.com/kubade220/Project-Plus/blob/main/Short%20Deadline.md)
+2.1[poor resource]()
+3.1
+[Calculator mobile (test plan)](https://github.com/kubade220/Project-Plus/blob/main/TestPlan.md)
+[Application tests on the emulator and physical device](https://github.com/kubade220/Project-Plus/blob/main/emulator%20and%20physical%20device.md)
+[Test the source app (development, pre-release) and the store app (production, available to all customers)](https://github.com/kubade220/Project-Plus/blob/main/Test%20the%20pre-release%20and%20the%20production%2C%20available%20to%20all%20customers.md)
+4.
+5.
+6.
