@@ -6,7 +6,7 @@ InstaList. ShoppingList for Android.
 
 
 ### [Tasks]
-* Let's assume that your Project Manager came to you and said: Please test this mobile application in its entirety. This is an application from a new client and we need to check how many bugs we will have to fix before we take it over. Where will you start your tests? You have 2 days to test the entire application. This is an application for the Android platform.[Tests in full](https://github.com/kubade220/Project-Plus/blob/main/Short%20Deadline.md)
+[*](https://github.com/kubade220/Project-Plus/blob/main/Short%20Deadline.md) Let's assume that your Project Manager came to you and said: Please test this mobile application in its entirety. This is an application from a new client and we need to check how many bugs we will have to fix before we take it over. Where will you start your tests? You have 2 days to test the entire application. This is an application for the Android platform.[Tests in full]
 
 * The application is in the early stages of development. It only contains: Login field, Password field and Login button. How will you test the application on the phone and on the tablet?[Early stages of development](https://github.com/kubade220/Project-Plus/blob/main/poor%20resource.md)
 
@@ -25,11 +25,11 @@ Android pre-release
 * Calculator mobile
 * iOS app
 #### Main area of testing
-* Test the app on the emulator
-* Test the app on the physical device
+1 Test the app on the emulator
+* Test the app on the physical device(Application tests on the emulator and physical device)
 * Test the mobile application in its entirety
 * Test your app from sources (development, pre-release) and store app (production, available to all customers)
-* Calculator mobile (application test plan)
+* Calculator mobile (application test plan)(https://github.com/kubade220/Project-Plus/blob/main/TestPlan.md)
 * Find 3 errors in the mobile application
 
 
