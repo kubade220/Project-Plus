@@ -10,7 +10,7 @@ InstaList. ShoppingList for Android.
 
 * The application is in the early stages of development. It only contains: Login field, Password field and Login button. How will you test the application on the phone and on the tablet?[Early stages of development](https://github.com/kubade220/Project-Plus/blob/main/poor%20resource.md)
 
-* You have to test an iOS application that works on all Apple phones and tablets. However, due to time constraints, you'll need to choose two devices to run the tests on. What devices will you choose for testing and why?
+* You have to test an iOS application that works on all Apple phones and tablets. However, due to time constraints, you'll need to choose two devices to run the tests on. What devices will you choose for testing and why?[iOS application](https://github.com/kubade220/Project-Plus/blob/main/iOS%20application.md)
 
 #### The project also contain
 * Calculator mobile test plan
@@ -41,7 +41,7 @@ Android pre-release
 
 2 [Early stages of development](https://github.com/kubade220/Project-Plus/blob/main/poor%20resource.md)
 
-3 [Task 3](https://github.com/kubade220/Project-Plus/blob/main/Task3.md)
+3 [iOS application](https://github.com/kubade220/Project-Plus/blob/main/iOS%20application.md)
 
 4 [Calculator mobile (test plan)](https://github.com/kubade220/Project-Plus/blob/main/TestPlan.md)
 
