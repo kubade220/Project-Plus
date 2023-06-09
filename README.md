@@ -25,8 +25,8 @@ Android pre-release
 * Calculator mobile
 * iOS app
 #### Main area of testing
-1 Test the app on the emulator
-* Test the app on the physical device(Application tests on the emulator and physical device)
+
+* application tests on a physical device and emulator
 * Test the mobile application in its entirety
 * Test your app from sources (development, pre-release) and store app (production, available to all customers)
 * Calculator mobile (application test plan)(https://github.com/kubade220/Project-Plus/blob/main/TestPlan.md)
