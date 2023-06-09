@@ -6,7 +6,7 @@ InstaList. ShoppingList for Android.
 
 
 ### [Tasks]
-* Let's assume that your Project Manager came to you and said: Please test this mobile application in its entirety. This is an application from a new client and we need to check how many bugs we will have to fix before we take it over. Where will you start your tests? You have 2 days to test the entire application. This is an application for the Android platform.[tests in full](https://github.com/kubade220/Project-Plus/blob/main/Short%20Deadline.md)
+* Let's assume that your Project Manager came to you and said: Please test this mobile application in its entirety. This is an application from a new client and we need to check how many bugs we will have to fix before we take it over. Where will you start your tests? You have 2 days to test the entire application. This is an application for the Android platform.[Tests in full](https://github.com/kubade220/Project-Plus/blob/main/Short%20Deadline.md)
 
 * The application is in the early stages of development. It only contains: Login field, Password field and Login button. How will you test the application on the phone and on the tablet?[](https://github.com/kubade220/Project-Plus/blob/main/poor%20resource.md))
 
@@ -37,15 +37,15 @@ Android pre-release
 
 # Table of Content
 
-[tests in full](https://github.com/kubade220/Project-Plus/blob/main/Short%20Deadline.md)
+1 [Tests in full](https://github.com/kubade220/Project-Plus/blob/main/Short%20Deadline.md)
 
-[Task 2](https://github.com/kubade220/Project-Plus/blob/main/poor%20resource.md)
+2 [Task 2](https://github.com/kubade220/Project-Plus/blob/main/poor%20resource.md)
 
-[Task 3](https://github.com/kubade220/Project-Plus/blob/main/Task3.md)
+3 [Task 3](https://github.com/kubade220/Project-Plus/blob/main/Task3.md)
 
-1 [Calculator mobile (test plan)](https://github.com/kubade220/Project-Plus/blob/main/TestPlan.md)
+4 [Calculator mobile (test plan)](https://github.com/kubade220/Project-Plus/blob/main/TestPlan.md)
 
-2 [Application tests on the emulator and physical device](https://github.com/kubade220/Project-Plus/blob/main/emulator%20and%20physical%20device.md)
+5 [Application tests on the emulator and physical device](https://github.com/kubade220/Project-Plus/blob/main/emulator%20and%20physical%20device.md)
 
-3 [Test the source app (development, pre-release) and the store app (production, available to all customers)](https://github.com/kubade220/Project-Plus/blob/main/Test%20the%20pre-release%20and%20the%20production%2C%20available%20to%20all%20customers.md)
+6 [Test the source app (development, pre-release) and the store app (production, available to all customers)](https://github.com/kubade220/Project-Plus/blob/main/Test%20the%20pre-release%20and%20the%20production%2C%20available%20to%20all%20customers.md)
 
