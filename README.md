@@ -8,7 +8,7 @@ InstaList. ShoppingList for Android.
 ### [Tasks]
 * Let's assume that your Project Manager came to you and said: Please test this mobile application in its entirety. This is an application from a new client and we need to check how many bugs we will have to fix before we take it over. Where will you start your tests? You have 2 days to test the entire application. This is an application for the Android platform.[Tests in full](https://github.com/kubade220/Project-Plus/blob/main/Short%20Deadline.md)
 
-* The application is in the early stages of development. It only contains: Login field, Password field and Login button. How will you test the application on the phone and on the tablet?[](https://github.com/kubade220/Project-Plus/blob/main/poor%20resource.md))
+* The application is in the early stages of development. It only contains: Login field, Password field and Login button. How will you test the application on the phone and on the tablet?[Early stages of development](https://github.com/kubade220/Project-Plus/blob/main/poor%20resource.md)
 
 * You have to test an iOS application that works on all Apple phones and tablets. However, due to time constraints, you'll need to choose two devices to run the tests on. What devices will you choose for testing and why?
 
@@ -39,7 +39,7 @@ Android pre-release
 
 1 [Tests in full](https://github.com/kubade220/Project-Plus/blob/main/Short%20Deadline.md)
 
-2 [Task 2](https://github.com/kubade220/Project-Plus/blob/main/poor%20resource.md)
+2 [Early stages of development](https://github.com/kubade220/Project-Plus/blob/main/poor%20resource.md)
 
 3 [Task 3](https://github.com/kubade220/Project-Plus/blob/main/Task3.md)
 
