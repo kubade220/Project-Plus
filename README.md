@@ -1,8 +1,8 @@
-# Project plus instalist-android app  | Calculator mobile | iOS app
+# Project plus instalist-android App  | Calculator Mobile | iOS App
 
 ## About the project
 
-### The project includes the completion of tasks and answers to questions about the tasks
+### The project includes tests of Android and IOS applications, as well as performing tasks and answering questions about tasks.
 
 ### TASK
 
