@@ -1,6 +1,6 @@
-### Project plus instalist-android app  | Calculator mobile | iOS app
+# Project plus instalist-android app  | Calculator mobile | iOS app
 
-### About the project
+## About the project
 
 #### InstaList. ShoppingList for Android.
 
@@ -25,7 +25,6 @@
 * Calculator mobile
 * iOS app
 #### Main area of testing
-
 * application tests on a physical device and emulator
 * Test the mobile application in its entirety
 * Test your app from sources (development, pre-release) and store app (production, available to all customers)
@@ -42,8 +41,8 @@
 ## [2. Test plan]
 [2.1 Calculator mobile (test plan)](https://github.com/kubade220/Project-Plus/blob/main/TestPlan.md)
 ## [Application tests]
-4 [iOS application](https://github.com/kubade220/Project-Plus/blob/main/iOS%20application.md)
-5 [Application tests on the emulator and physical device](https://github.com/kubade220/Project-Plus/blob/main/emulator%20and%20physical%20device.md)
-6 [Test the source app (development, pre-release) and the store app (production, available to all customers)](https://github.com/kubade220/Project-Plus/blob/main/Test%20the%20pre-release%20and%20the%20production%2C%20available%20to%20all%20customers.md)
+#### [iOS application](https://github.com/kubade220/Project-Plus/blob/main/iOS%20application.md)
+#### [Application tests on the emulator and physical device](https://github.com/kubade220/Project-Plus/blob/main/emulator%20and%20physical%20device.md)
+#### [Test the source app (development, pre-release) and the store app (production, available to all customers)](https://github.com/kubade220/Project-Plus/blob/main/Test%20the%20pre-release%20and%20the%20production%2C%20available%20to%20all%20customers.md)
 
 
