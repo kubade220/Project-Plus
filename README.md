@@ -37,7 +37,7 @@
 # Table of Content
 ## 1.[Tasks]
 #### [1.1 Tests in full](https://github.com/kubade220/Project-Plus/blob/main/Short%20Deadline.md)
-#### [1.2 Early stages of development](https://github.com/kubade220/Project-Plus/blob/main/poor%20resource.md)
+#### [1.2 Early stages of development](https://github.com/kubade220/Project-Plus/blob/main/early%20stages%20of%20development.md)
 ## [2. Test plan]
 [2.1 Calculator mobile (test plan)](https://github.com/kubade220/Project-Plus/blob/main/TestPlan.md)
 ## [Application tests]
