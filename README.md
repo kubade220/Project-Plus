@@ -28,12 +28,12 @@
 
 
 # Table of Content
-## 1.[Tasks]
+## 1.Tasks
 #### [1.1 Tests in full](https://github.com/kubade220/Project-Plus/blob/main/Short%20Deadline.md)
 #### [1.2 Early stages of development](https://github.com/kubade220/Project-Plus/blob/main/early%20stages%20of%20development.md)
-## [2. Test plan]
+## 2. Test plan
 #### [2.1 Calculator mobile](https://github.com/kubade220/Project-Plus/blob/main/TestPlan.md)
-## [Application tests]
+## 3. Application tests
 #### [iOS application](https://github.com/kubade220/Project-Plus/blob/main/iOS%20application.md)
 #### [Application tests](https://github.com/kubade220/Project-Plus/blob/main/emulator%20and%20physical%20device.md)
 #### [Test the source app development](https://github.com/kubade220/Project-Plus/blob/main/Test%20the%20pre-release%20and%20the%20production%2C%20available%20to%20all%20customers.md)
