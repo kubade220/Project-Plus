@@ -2,7 +2,7 @@
 
 ### About the project
 
-InstaList. ShoppingList for Android.
+#### InstaList. ShoppingList for Android.
 
 
 ### [Tasks]
@@ -16,10 +16,10 @@ InstaList. ShoppingList for Android.
 * Calculator mobile test plan
 *  tests iOS application on Apple phones and tablets
 #### Test environment
-Android emulator
-physical device
-Android development
-Android pre-release
+* Android emulator
+* physical device
+* Android development
+* Android pre-release
 ### Test objects
 * installist app 
 * Calculator mobile
@@ -36,16 +36,14 @@ Android pre-release
 
 
 # Table of Content
-
-1 [Tests in full](https://github.com/kubade220/Project-Plus/blob/main/Short%20Deadline.md)
-
-2 [Early stages of development](https://github.com/kubade220/Project-Plus/blob/main/poor%20resource.md)
-
-3 [Calculator mobile (test plan)](https://github.com/kubade220/Project-Plus/blob/main/TestPlan.md)
-
+## 1.[Tasks]
+#### [1.1 Tests in full](https://github.com/kubade220/Project-Plus/blob/main/Short%20Deadline.md)
+#### [1.2 Early stages of development](https://github.com/kubade220/Project-Plus/blob/main/poor%20resource.md)
+## [2. Test plan]
+[2.1 Calculator mobile (test plan)](https://github.com/kubade220/Project-Plus/blob/main/TestPlan.md)
+## [Application tests]
 4 [iOS application](https://github.com/kubade220/Project-Plus/blob/main/iOS%20application.md)
-
 5 [Application tests on the emulator and physical device](https://github.com/kubade220/Project-Plus/blob/main/emulator%20and%20physical%20device.md)
-
 6 [Test the source app (development, pre-release) and the store app (production, available to all customers)](https://github.com/kubade220/Project-Plus/blob/main/Test%20the%20pre-release%20and%20the%20production%2C%20available%20to%20all%20customers.md)
+
 
