@@ -1,18 +1,23 @@
-# Do you see any differences between the apps?
-* Yes, there can be differences between the source app (development or pre-release version) and the store app (production version available to all customers). These differences can arise due to various factors, such as bug fixes, feature enhancements, optimizations, and configuration changes made during the development and release process. Additionally, the source app might include debugging or logging features that are not present in the store app. It is important to thoroughly test both versions to ensure they align in terms of functionality, performance, and user experience.
-# What tests have you done? What tests did you fail? Why?
-* I have conducted a range of tests on both the source app and the store app, including functional testing, regression testing, performance testing, compatibility testing, and user acceptance testing.
-# Failures in tests can occur due to several reasons:
-
-* Regression failures: Changes made during development could introduce new bugs or reintroduce previously fixed issues.
-* Performance issues: The app may perform differently under real-world conditions, especially when subjected to a larger user base.
-* Compatibility issues: The store app might encounter compatibility problems on certain devices, OS versions, or specific network configurations.
-* It is essential to investigate and analyze the reasons for test failures, determine if they are due to genuine app issues or configuration/environmental factors, and prioritize them for resolution.
-
-# Why should you not test on a production application? When is testing a production application advisable?
-* Testing on a production application is generally not advisable because it can directly impact end-users and their experience with the app. Testing on a live, production environment can introduce risks such as data corruption, service interruptions, and negative user feedback. It is crucial to conduct thorough testing in a controlled environment (e.g., development, staging, or pre-production) before deploying an application to production.
-* However, there are scenarios when testing a production application is advisable:
-
-* Rolling out updates: When deploying new versions or updates to the production environment, it is crucial to conduct pre-release testing to identify any issues that might impact end-users.
-* Hotfixes or critical patches: In urgent situations where critical issues require immediate resolution, testing the fix in the production environment may be necessary. However, such testing should be performed cautiously and with minimal disruption to users.
-* Testing production-specific features: Certain features, such as payment gateways or integrations with third-party systems, may only be fully testable in the production environment due to the availability of live data or real-world interactions.
+## Differences between the apps:
+* The development or pre-release app is typically a version of the software that is still being actively developed and tested. It may have new features, bug fixes, or changes that are not yet available in the production app. The store app, on the other hand, is the finalized version that is released to the public. It should be stable and have undergone thorough testing.
+## Types of tests:
+#### Testing of apps can include various types, such as:
+* Functional testing: Verifying that the app functions correctly and according to its specifications.
+* Regression testing: Ensuring that changes or fixes do not introduce new issues.
+* Performance testing: Assessing the app's responsiveness, speed, and resource usage.
+* Usability testing: Evaluating how user-friendly the app is and identifying any usability issues.
+* Security testing: Checking for vulnerabilities or weaknesses that could be exploited.
+* Compatibility testing: Testing the app on different devices, operating systems, or platforms.
+## Test failures:
+* Without specific details about the app or the tests conducted, it is not possible to determine which tests might have failed or why. Test failures can occur due to various reasons, such as coding errors, insufficient test coverage, environmental issues, or unexpected user behavior. It's essential to investigate and analyze the failures to identify the root causes and address them accordingly.
+#### Not testing on a production application:
+## Testing directly on a production application is generally not advisable due to the following reasons:
+* Potential impact on users: If there are bugs or issues in the production app, it can lead to a poor user experience, loss of data, or even financial implications.
+## Security risks: Testing on a production app may involve exposing sensitive data or features, which can pose security risks.
+#### Limited control: Testing directly on a live production environment limits the ability to isolate issues, control variables, and perform thorough testing.
+##  When to test a production application:
+* Testing a production application is advisable under specific circumstances, such as:
+* Emergency bug fixes: When critical bugs or security vulnerabilities need immediate resolution, testing on the production app may be necessary to address the issue promptly.
+* A/B testing: When you want to evaluate different features or versions of the app with real users to gather feedback and data.
+Load testing or performance testing: Assessing the app's performance under realistic user loads can be challenging to replicate in non-production environments.
+In general, it's best to conduct thorough testing in development and pre-release environments to catch and address issues before deploying to production.
