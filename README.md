@@ -38,6 +38,6 @@
 #### [Application tests](https://github.com/kubade220/Project-Plus/blob/main/emulator%20and%20physical%20device.md)
 #### [Test the source app development](https://github.com/kubade220/Project-Plus/blob/main/Test%20the%20pre-release%20and%20the%20production%2C%20available%20to%20all%20customers.md)
 ## 4 Bugs
-#### [Trax Retail](https://docs.google.com/spreadsheets/d/e/2PACX-1vS48yrFqdCyD7xb41N_uHIIBiGCTywVigrFXOzpxvVDPJ4-nFEUu0S21r81ChYUNhPFhRpWnVvIGZLL/pubhtml)
+#### [Trax Retail](https://docs.google.com/spreadsheets/d/1i8bbOAJpQUZCQwoG2F52I5hkEX31LMBhe7hlMDCHank/edit#gid=1284785787)
 
 
